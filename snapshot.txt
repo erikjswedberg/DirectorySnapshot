@@ -1,0 +1,19 @@
+directorySnapshot - 2017-09-21 16:20:51
+   testa
+      testb
+         testc
+         filec.txt
+      testbb
+         file.jpg
+         testbba
+      fileb.txt
+      filebb.txt
+   testaa
+      asdf.jpg
+      fileaab.txt
+   .gitignore
+   a.b.c.txt
+   dirsnap.py
+   filea.txt
+   README.md
+   snapshot.txt
