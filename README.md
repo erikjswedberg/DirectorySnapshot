@@ -21,6 +21,7 @@ Required: Input Folder to scan and Output File to save the folder/file tree to (
 
 ### Todo
 
+- Exclude hidden folders y/n
 - Include created date (multi platform issues)
 - Order By, drop down (A-Z, size, createddate)
 - Folders First Checkbox (listing files then folders, or folders then files)

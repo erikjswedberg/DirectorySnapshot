@@ -1,19 +1,37 @@
-directorySnapshot - 2017-09-21 16:20:51
+directorySnapshot - 2017-09-21 17:05:17
+   .git
+      branches
+      hooks
+      info
+      logs
+         refs
+            heads
+            remotes
+               origin
+      objects
+         18
+         5a
+         7f
+         8e
+         a1
+         c1
+         c5
+         info
+         pack
+      refs
+         heads
+         remotes
+            origin
+         tags
    testa
       testb
          testc
-         filec.txt
+         filec.txt - 76 bytes
       testbb
-         file.jpg
-         testbba
-      fileb.txt
-      filebb.txt
+      fileb.txt - 14 bytes
+      filebb.txt - 40 bytes
    testaa
-      asdf.jpg
-      fileaab.txt
-   .gitignore
-   a.b.c.txt
-   dirsnap.py
-   filea.txt
-   README.md
-   snapshot.txt
+      fileaab.txt - 76 bytes
+   a.b.c.txt - 0 bytes
+   filea.txt - 0 bytes
+   snapshot.txt - 0 bytes
